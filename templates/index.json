@@ -15,6 +15,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/imgi_5_family-jump-shadow_2048x_4fc706e8-8fbc-46e7-8ce1-996b54bd7285.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -48,105 +49,61 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
-    "image-link-blocks": {
-      "type": "image-link-blocks",
+    "logo_list_LwHTgq": {
+      "type": "logo-list",
       "blocks": {
-        "1664424046b00c932c-0": {
-          "type": "item",
+        "logo_tzemAN": {
+          "type": "logo",
           "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "logo": "shopify://shop_images/4455987-le-nouveau-logo-de-tf1-1200x0-1.webp",
+            "logo_width": 120,
+            "link": ""
           }
         },
-        "1664424046b00c932c-1": {
-          "type": "item",
+        "logo_U3XQ6t": {
+          "type": "logo",
           "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "logo": "shopify://shop_images/logo-joueclub-site.png",
+            "logo_width": 120,
+            "link": ""
           }
         },
-        "1664424046b00c932c-2": {
-          "type": "item",
+        "logo_QbfARh": {
+          "type": "logo",
           "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "logo_width": 120,
+            "link": ""
           }
         },
-        "1664424046b00c932c-3": {
-          "type": "item",
+        "logo_6j3qbE": {
+          "type": "logo",
           "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "logo_width": 120,
+            "link": ""
           }
         }
       },
       "block_order": [
-        "1664424046b00c932c-0",
-        "1664424046b00c932c-1",
-        "1664424046b00c932c-2",
-        "1664424046b00c932c-3",
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
+        "logo_tzemAN",
+        "logo_U3XQ6t",
+        "logo_QbfARh",
+        "logo_6j3qbE"
       ],
+      "name": "Logo list",
       "settings": {
-        "full_width": false,
-        "block_size": "medium",
-        "subheading": "",
-        "title": "",
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Vu sur :",
         "content": "",
-        "link_url": "",
-        "link_text": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
         "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "settings": {
-        "full_width": true,
-        "text": "Promotion text",
-        "text_size": "large",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
       }
     },
     "collection-list": {
@@ -856,8 +813,7 @@
   },
   "order": [
     "slideshow",
-    "image-link-blocks",
-    "scrolling-text",
+    "logo_list_LwHTgq",
     "collection-list",
     "featured-collection",
     "Dawn-text",

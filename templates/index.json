@@ -55,39 +55,41 @@
         "logo_tzemAN": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/4455987-le-nouveau-logo-de-tf1-1200x0-1.webp",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_U3XQ6t": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/logo-joueclub-site.png",
-            "logo_width": 120,
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_QbfARh": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_6j3qbE": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/8K.svg",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_fiPHQQ": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo-seo_1.png",
+            "logo_width": 300,
             "link": ""
           }
         }
       },
       "block_order": [
         "logo_tzemAN",
-        "logo_U3XQ6t",
         "logo_QbfARh",
-        "logo_6j3qbE"
+        "logo_6j3qbE",
+        "logo_fiPHQQ"
       ],
       "name": "Logo list",
       "settings": {

@@ -148,14 +148,10 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title": {
           "type": "title",
           "settings": {
-            "heading_tag": "h2"
+            "heading_tag": "h3"
           }
         },
         "badges": {
@@ -213,7 +209,6 @@
         }
       },
       "block_order": [
-        "vendor",
         "title",
         "badges",
         "price",

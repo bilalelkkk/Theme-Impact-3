@@ -74,6 +74,15 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "newsletter_WmeaWE": {
+          "type": "newsletter",
+          "settings": {
+            "image_width": 150,
+            "heading_size": "h3",
+            "title": "Sign up to our newsletter",
+            "content": ""
+          }
+        },
         "text": {
           "type": "text",
           "settings": {
@@ -84,6 +93,7 @@
         }
       },
       "block_order": [
+        "newsletter_WmeaWE",
         "text"
       ],
       "settings": {

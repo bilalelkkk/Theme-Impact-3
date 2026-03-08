@@ -54,6 +54,7 @@
         "logo_tzemAN": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/gempages_505695185594745962-1ff1e73a-5a24-45d5-98cf-2d6a4170e2b4_1e88848a-5cc3-479b-89af-b60358541280.avif",
             "logo_width": 300,
             "link": ""
           }
@@ -61,6 +62,7 @@
         "logo_QbfARh": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/ITALIAN_MAGAZINE_-_TRUST_-_1_e2121375-8cc2-4725-a70f-3a73ea48bf61.avif",
             "logo_width": 300,
             "link": ""
           }
@@ -68,6 +70,7 @@
         "logo_6j3qbE": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/ITALIAN_MAGAZINE_-_TRUST_-_2_784bffb9-28bd-49f1-ae47-cc4ffde1ff79.avif",
             "logo_width": 300,
             "link": ""
           }
@@ -75,6 +78,7 @@
         "logo_fiPHQQ": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/ITALIAN_MAGAZINE_-_TRUST_-_3_b533a661-daee-4b9f-8ce4-8b9ca3a50d6b.avif",
             "logo_width": 300,
             "link": ""
           }
@@ -110,6 +114,8 @@
         "subheading": "",
         "title": "Avant / Après",
         "content": "",
+        "before_image": "shopify://shop_images/hf_20260308_150130_121c4d4e-0903-4c22-a68d-b9b2b65b9c59.jpg",
+        "after_image": "shopify://shop_images/hf_20260308_145905_449a393c-e737-470e-8d5d-4203dd97ba4d.jpg",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",

@@ -14,6 +14,19 @@
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
+        "item_FkRUrX": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-truck",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Consegna tracciata e sicura",
+            "content": ""
+          }
+        },
         "free-shipping": {
           "type": "item",
           "settings": {
@@ -23,41 +36,42 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Livraison Offerte",
-            "content": ""
-          }
-        },
-        "customer-support": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-customer-support",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Service Client",
+            "title": "Resi semplici e veloci",
             "content": ""
           }
         },
         "payment": {
           "type": "item",
           "settings": {
-            "icon": "picto-lock",
+            "icon": "picto-return",
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Paiement Sécurisé",
+            "title": "Soddisfatti o rimborsati",
+            "content": ""
+          }
+        },
+        "item_LEyecc": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-star",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Approvato da esperti",
             "content": ""
           }
         }
       },
       "block_order": [
+        "item_FkRUrX",
         "free-shipping",
-        "customer-support",
-        "payment"
+        "payment",
+        "item_LEyecc"
       ],
       "settings": {
         "full_width": true,
@@ -79,15 +93,15 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Sign up to our newsletter",
+            "title": "Entra nel club SERENIUM",
             "content": ""
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "title": "Nous contacter",
-            "content": "<p>Service client : contact@maneaa.fr</p><p>Horaires : Du Lundi au Samedi de 8h à 20h30 </p>",
+            "title": "Assistenza clienti 24/7",
+            "content": "<p>Supporto rapido e cordiale, ogni giorno dell’anno. Rispondiamo entro 5 ore per qualsiasi domanda o problema.</p><p>📧 <strong>contact@serenium.it</strong></p>",
             "enable_follow_on_shop": true
           }
         }

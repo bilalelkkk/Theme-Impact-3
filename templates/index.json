@@ -113,15 +113,15 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Avant / Après",
+        "title": "Prima / Dopo",
         "content": "",
         "before_image": "shopify://shop_images/hf_20260308_150130_121c4d4e-0903-4c22-a68d-b9b2b65b9c59.jpg",
         "after_image": "shopify://shop_images/hf_20260308_145905_449a393c-e737-470e-8d5d-4203dd97ba4d.jpg",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",
-        "before_text": "Avant",
-        "after_text": "Après",
+        "before_text": "Prima",
+        "after_text": "Dopo",
         "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
@@ -321,8 +321,8 @@
         "heading_zEWwdp": {
           "type": "heading",
           "settings": {
-            "text": "Notre oreiller ou un oreiller classique ?",
-            "heading_tag": "h1",
+            "text": "Il nostro cuscino o un cuscino classico ?",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }

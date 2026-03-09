@@ -374,36 +374,44 @@
     "faq": {
       "type": "faq",
       "blocks": {
+        "item_DEHYPF": {
+          "type": "item",
+          "settings": {
+            "title": "Migliora davvero la qualità del mio sonno ?",
+            "content": "<p>Favorendo un buon allineamento posturale e una respirazione più fluida, contribuisce a un addormentamento più rapido, una diminuzione dei micro-risvegli e un sonno globalmente più riposante.</p>"
+          }
+        },
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Comment fonctionne la peluche ?",
-            "content": "<p>Notre peluche Koala reproduit un rythme respiratoire naturel et émet des sons apaisants pour favoriser la relaxation. Activez ou désactivez ces fonctions en utilisant simplement le bouton situé dans le pied droit du Koala.</p>"
+            "title": "È adatto a chi dorme di lato, supino o a pancia in giù ?",
+            "content": "<p>Sì, è progettato per offrire un sostegno ottimale in tutte le principali posizioni del sonno :</p><p>sulla schiena : la cavità centrale sostiene la nuca e preserva la sua curvatura naturale</p><p>sul fianco : i lati profilati sostengono la nuca e riducono la pressione sulle spalle e sulle braccia</p><p>sulla pancia : sebbene questa posizione non sia la più sana per la nuca, molte persone che dormono così apprezzano la forma bassa e flessibile del cuscino.</p><p>Se cambiate posizione durante la notte, si adatta al vostro corpo senza compromettere l'allineamento.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "La peluche est-elle adaptée à tous les âges ?",
-            "content": "<p>Absolument, notre peluche est conçue pour les enfants à partir de 3 ans ainsi que pour les adultes. Elle est idéale pour toute personne cherchant à se détendre et à trouver du réconfort.</p>"
+            "title": "Il cuscino è efficace contro il russamento ?",
+            "content": "<p>Totalmente testato e approvato.<br/><br/>Il cuscino favorisce un buon allineamento della testa, del collo e delle vie respiratorie, il che può ridurre considerevolmente il russamento legato a una cattiva postura durante la notte.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Peut-on utiliser la peluche pendant le sommeil ?",
-            "content": "<p>Oui, notre peluche est parfaitement sécurisée pour être utilisée pendant le sommeil. Elle est conforme à toutes les normes de sécurité européennes en vigueur.</p><p><strong>Spécifications Techniques :</strong></p><ul><li><strong>Couleur :</strong> Gris</li><li><strong>Matériel :</strong> Polyester de haute qualité</li><li><strong>Taille :</strong> 30 cm</li><li><strong>Alimentation :</strong> Fonctionne avec 3 piles AAA (non incluses)</li></ul>"
+            "title": "Il cuscino è compatibile con le maschere nasali e l'apnea del sonno ?",
+            "content": "<p>Sì. Il cuscino è perfettamente adatto alle persone che indossano una maschera nasale o interessate dall'apnea del sonno da lieve a moderata. La sua forma ergonomica favorisce un buon allineamento delle vie respiratorie, il che contribuisce a una respirazione fluida durante tutta la notte.</p>"
           }
         },
         "item_ByVdwX": {
           "type": "item",
           "settings": {
-            "title": "Quels sont les délais de livraison ?",
-            "content": "<p>Nos délais de livraison sont généralement de 5 à 9 jours ouvrables.</p>"
+            "title": "Quali sono i tempi di consegna ?",
+            "content": "<p>I nostri tempi di consegna sono generalmente da 5 a 9 giorni lavorativi.</p>"
           }
         }
       },
       "block_order": [
+        "item_DEHYPF",
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2",

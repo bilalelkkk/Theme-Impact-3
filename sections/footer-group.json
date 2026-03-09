@@ -93,7 +93,7 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Entra nel club SERENIUM",
+            "title": "Entra nel club SEREMIUM",
             "content": ""
           }
         },
@@ -101,7 +101,7 @@
           "type": "text",
           "settings": {
             "title": "Assistenza clienti 24/7",
-            "content": "<p>Supporto rapido e cordiale, ogni giorno dell’anno. Rispondiamo entro 5 ore per qualsiasi domanda o problema.</p><p>📧 <strong>contact@serenium.it</strong></p>",
+            "content": "<p>Supporto rapido e cordiale, ogni giorno dell’anno. Rispondiamo entro 5 ore per qualsiasi domanda o problema.</p><p>📧 <strong>contact@seremium.com</strong></p>",
             "enable_follow_on_shop": true
           }
         }

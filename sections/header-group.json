@@ -17,26 +17,18 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "STOCKS BIENTÔT ÉPUISÉS",
-            "url": ""
-          }
-        },
-        "message_qaQEJA": {
-          "type": "message",
-          "settings": {
-            "text": "SOLDES D'HIVER LIMITÉE",
+            "text": "Livraison offerte - Expédié sous 24 heures",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message",
-        "message_qaQEJA"
+        "message"
       ],
       "settings": {
         "enable_sticky": false,
         "text_size": "text-xs",
-        "navigation_mode": "scrolling",
+        "navigation_mode": "arrows",
         "scrolling_speed": 10,
         "background": "#0f2756",
         "background_gradient": "",

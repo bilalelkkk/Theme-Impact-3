@@ -135,19 +135,6 @@
     "multi_column_tjjDRJ": {
       "type": "multi-column",
       "blocks": {
-        "item_NwxFyN": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/C.webp",
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_aMRiaY": {
           "type": "item",
           "settings": {
@@ -173,12 +160,39 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_Mg9F4B": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/G.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_NwxFyN": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/C.webp",
+            "column_size": "3",
+            "title": "\"La matière est tellement incroyable...\"",
+            "heading_tag": "h4",
+            "content": "<p>Super confortable, belle couleur et la housse de grande qualité ! C'est validé pour moi !<br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
-        "item_NwxFyN",
         "item_aMRiaY",
-        "item_Uw7rwV"
+        "item_Uw7rwV",
+        "item_Mg9F4B",
+        "item_NwxFyN"
       ],
       "name": "Multi-column",
       "settings": {
@@ -194,22 +208,15 @@
         "text_color": ""
       }
     },
-    "custom_liquid_hmcLMV": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<style>\n  .trustpilot-reviews-section {\n    display: flex;\n    justify-content: space-between;\n    padding: 20px;\n    background-color: #fffffff;\n    border-radius: 8px;\n    position: relative;\n  }\n\n  .trustpilot-summary {\n    flex-basis: 20%;\n    text-align: left;\n    color: #000000; /* Couleur noire pour tout le texte */\n  }\n\n  .trustpilot-summary h2 {\n    font-size: 24px;\n    font-weight: bold;\n    margin-bottom: 10px;\n    color: #000000; /* Couleur noire */\n  }\n\n  .trustpilot-summary p {\n    color: #000000; /* Couleur noire */\n  }\n\n  .trustpilot-stars img {\n    width: 100px;\n    margin-bottom: 10px;\n  }\n\n  .trustpilot-logo {\n    width: 100px;\n    margin-top: 10px;\n  }\n\n  .review-carousel {\n    display: flex;\n    flex-basis: 75%;\n    overflow: hidden;\n    position: relative;\n  }\n\n  .review-card {\n    width: 270px;\n    padding: 15px;\n    margin-right: 15px;\n    background-color: #ffffff;\n    border: 1px solid #eaeaea;\n    border-radius: 8px;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n    transition: transform 0.3s ease;\n    flex-shrink: 0;\n  }\n\n  .review-card:hover {\n    transform: scale(1.05);\n  }\n\n  .review-card img {\n    width: 70px;\n  }\n\n  .review-card p {\n    margin: 5px 0;\n    font-size: 14px;\n  }\n\n  .review-card strong {\n    font-weight: bold;\n  }\n\n  .nav-arrow {\n    position: absolute;\n    top: 50%;\n    transform: translateY(-50%);\n    background-color: #fff;\n    border: 2px solid #ddd;\n    border-radius: 50%;\n    width: 40px;\n    height: 40px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    cursor: pointer;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n  }\n\n  .nav-arrow:hover {\n    background-color: #f0f0f0;\n    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);\n  }\n\n  .arrow-left {\n    left: -20px; \n  }\n\n  .arrow-right {\n    right: -20px; \n  }\n\n  .nav-arrow::before {\n    content: '';\n    display: block;\n    border: solid #333;\n    border-width: 0 3px 3px 0;\n    padding: 5px;\n  }\n\n  .arrow-left::before {\n    transform: rotate(135deg);\n  }\n\n  .arrow-right::before {\n    transform: rotate(-45deg);\n  }\n\n  @media (max-width: 768px) {\n    .trustpilot-reviews-section {\n      flex-direction: column;\n      padding: 10px;\n    }\n\n    .trustpilot-summary {\n      flex-basis: 100%;\n      text-align: center; \n      margin-bottom: 20px;\n    }\n\n    .trustpilot-stars img {\n      width: 80px;\n      margin: 0 auto;\n    }\n\n    .trustpilot-logo {\n      width: 80px;\n      margin-top: 5px;\n      margin: 0 auto; \n    }\n\n    .review-carousel {\n      flex-basis: 100%;\n      overflow-x: auto;\n      padding-bottom: 10px;\n    }\n\n    .review-card {\n      min-width: 85%;\n      margin-right: 10px;\n    }\n\n    .nav-arrow {\n      display: none;\n    }\n  }\n</style>\n\n<div class=\"trustpilot-reviews-section\">\n  <div class=\"trustpilot-summary\">\n    <h2>Excellent !</h2>\n    <div class=\"trustpilot-stars\">\n      <!-- Modifier Lien Image ici pour les étoiles -->\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n    </div>\n    <p>Basé sur plus de 450 avis</p>\n    <!-- Modifier Lien Image ici pour logo -->\n    <img src=\"https://companieslogo.com/img/orig/TRST.L_BIG.D-f939d4a8.png?t=1720244494\" alt=\"Trustpilot logo\" class=\"trustpilot-logo\">\n\n  </div>\n\n  <div class=\"review-carousel\" id=\"review-carousel\">\n     <!-- Modifier Avis ICI -->\n    <div class=\"review-card\">\n      <!-- Modifier Lien Image ici pour les étoiles -->\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n      <p><strong>Vérifié</strong></p>\n      <p>C'est un vrai soulagement au quotidien</p>\n      <p>\"Le mouvement respirant est très doux et naturel. Ma fille se calme beaucoup plus vite au moment du coucher. Elle s'endort en imitant la respiration sans même s'en rendre compte. Un excellent produit.\"</p>\n      <p><strong>Camille R.</strong> - 23/07/2025</p>\n    </div>\n     <!-- Modifier Avis ICI -->\n    <div class=\"review-card\">\n      <!-- Modifier Lien Image ici pour les étoiles -->\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n      <p><strong>Vérifié</strong></p>\n      <p>Un compagnon rassurant</p>\n      <p>\"La peluche est très douce et la lumière est apaisante. Mon fils l'utilise chaque soir et ça l'aide clairement à se détendre après des journées agitées. Il l'emmène même avec lui en déplacement.\"</p>\n      <p><strong>Leila B.</strong> - 05/08/2025</p>\n    </div>\n    <!-- Modifier Avis ICI -->\n    <div class=\"review-card\">\n      <!-- Modifier Lien Image ici pour les étoiles -->\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n      <p><strong>Vérifié</strong></p>\n      <p>Surprenant et vraiment apaisant</p>\n      <p>\"Je l'ai acheté au départ pour mon enfant, mais je l'utilise aussi pour moi. Le mouvement respirant est lent et naturel, ça aide vraiment à relâcher la pression après une journée stressante. Je m'endors plus facilement et le sommeil est plus profond.\"</p>\n      <p><strong>Élodie M.</strong> - 16/11/2025</p>\n    </div>\n     <!-- Si vous voulez rajouter des Avis c'est ICI -->\n  </div>\n\n  <!-- Flèches de navigation -->\n  <button class=\"nav-arrow arrow-left\" onclick=\"scrollReviews(-1)\"></button>\n  <button class=\"nav-arrow arrow-right\" onclick=\"scrollReviews(1)\"></button>\n</div>\n\n<script>\n  const reviewCarousel = document.getElementById('review-carousel');\n\n  function scrollReviews(direction) {\n    const scrollAmount = 320; \n    reviewCarousel.scrollBy({ left: direction * scrollAmount, behavior: 'smooth' });\n  }\n</script>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
+        "liquid_BQGczV": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"sf-rating-block\">\n  <div class=\"sf-stars\">\n    {% for i in (1..5) %}\n      <svg viewBox=\"0 0 576 512\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    {% endfor %}\n  </div>\n  <span class=\"sf-rating-text\">Excellent ! Basé sur plus de <span class=\"sf-count\">1 122 avis</span></span>\n</div>\n<style>\n.sf-rating-block {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  margin: 15px 0;\n  font-family: inherit;\n}\n.sf-stars {\n  display: flex;\n  gap: 2px;\n}\n.sf-stars svg {\n  width: 20px;\n  height: 20px;\n  fill: #00b67a;\n}\n.sf-rating-text {\n  font-size: 15px;\n  font-weight: 500;\n  color: #000000;\n  line-height: 1.2;\n}\n.sf-count {\n  font-weight: 700;\n  text-decoration: underline;\n}\n@media (max-width: 749px) {\n  .sf-rating-text { font-size: 13px; }\n  .sf-stars svg { width: 16px; height: 16px; }\n}\n</style>"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -229,7 +236,7 @@
         "liquid_XEy9ka": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"stock-alert\">\n  <span class=\"pulse-wrapper\">\n    <span class=\"pulse-dot\"></span>\n  </span>\n  <span class=\"stock-text\">\n    <strong>Derniers articles en stock&nbsp;!</strong>\n  </span>\n</div>\n\n<style>\n.stock-alert {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  font-family: Arial, sans-serif;\n  font-size: 13px;\n  color: #dc2626; /* Rouge pour le texte */\n}\n\n.pulse-wrapper {\n  position: relative;\n  width: 14px;\n  height: 14px;\n  display: inline-block;\n}\n\n.pulse-dot {\n  width: 10px;\n  height: 10px;\n  background-color: #dc2626; /* Rouge principal */\n  border-radius: 50%;\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  z-index: 2;\n  box-shadow: 0 0 0 4px rgba(220, 38, 38, 0.3); /* Halo rouge clair */\n}\n\n.pulse-wrapper::before {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  width: 10px;\n  height: 10px;\n  background-color: #f87171; /* Rouge clair pour l’effet pulsé */\n  border-radius: 50%;\n  transform: translate(-50%, -50%) scale(1);\n  animation: pulse 1.5s infinite ease-out;\n  opacity: 0.5;\n  z-index: 1;\n}\n\n@keyframes pulse {\n  0% {\n    transform: translate(-50%, -50%) scale(1);\n    opacity: 0.5;\n  }\n  50% {\n    transform: translate(-50%, -50%) scale(2.2);\n    opacity: 0;\n  }\n  100% {\n    transform: translate(-50%, -50%) scale(1);\n    opacity: 0;\n  }\n}\n</style>"
+            "liquid": "<div class=\"stock-alert\">\n  <span class=\"pulse-wrapper\">\n    <span class=\"pulse-dot\"></span>\n  </span>\n  <span class=\"stock-text\">\n    <strong>Plus que quelques articles en stock</strong> – Dépêchez-vous.\n  </span>\n</div>\n<style>\n.stock-alert {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  font-family: Arial, sans-serif;\n  font-size: 13px;\n  color: #dc3545;\n}\n.pulse-wrapper {\n  position: relative;\n  width: 14px;\n  height: 14px;\n  display: inline-block;\n}\n.pulse-dot {\n  width: 10px;\n  height: 10px;\n  background-color: #dc3545;\n  border-radius: 50%;\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  z-index: 2;\n  box-shadow: 0 0 0 4px rgba(220, 53, 69, 0.3);\n}\n.pulse-wrapper::before {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  width: 10px;\n  height: 10px;\n  background-color: #dc3545;\n  border-radius: 50%;\n  transform: translate(-50%, -50%) scale(1);\n  animation: pulse 1.5s infinite ease-out;\n  opacity: 0.5;\n  z-index: 1;\n}\n@keyframes pulse {\n  0% {\n    transform: translate(-50%, -50%) scale(1);\n    opacity: 0.5;\n  }\n  50% {\n    transform: translate(-50%, -50%) scale(2.2);\n    opacity: 0;\n  }\n  100% {\n    transform: translate(-50%, -50%) scale(1);\n    opacity: 0;\n  }\n}\n</style>"
           }
         },
         "rating": {
@@ -271,6 +278,7 @@
         }
       },
       "block_order": [
+        "liquid_BQGczV",
         "title",
         "badges",
         "price",
@@ -297,6 +305,32 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "custom_liquid_hmcLMV": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  .trustpilot-reviews-section {\n    display: flex;\n    justify-content: space-between;\n    padding: 20px;\n    background-color: #ffffff;\n    border-radius: 8px;\n    position: relative;\n  }\n\n  .trustpilot-summary {\n    flex-basis: 20%;\n    text-align: left;\n  }\n\n  .trustpilot-summary h2 {\n    font-size: 24px;\n    font-weight: bold;\n    margin-bottom: 10px;\n  }\n\n  .trustpilot-stars img {\n    width: 100px;\n    margin-bottom: 10px;\n  }\n\n  .trustpilot-logo {\n    width: 50px;\n    margin-top: 10px;\n  }\n\n  .review-carousel {\n    display: flex;\n    flex-basis: 75%;\n    overflow: hidden;\n    position: relative;\n  }\n\n  .review-card {\n    width: 270px;\n    padding: 15px;\n    margin-right: 15px;\n    background-color: #ffffff;\n    border: 1px solid #eaeaea;\n    border-radius: 8px;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n    transition: transform 0.3s ease;\n    flex-shrink: 0;\n  }\n\n  .review-card:hover {\n    transform: scale(1.05);\n  }\n\n  .review-card img {\n    width: 70px;\n  }\n\n  .review-card p {\n    margin: 5px 0;\n    font-size: 14px;\n  }\n\n  .review-card strong {\n    font-weight: bold;\n  }\n\n  .nav-arrow {\n    position: absolute;\n    top: 50%;\n    transform: translateY(-50%);\n    background-color: #ffffff;\n    border: 2px solid #ddd;\n    border-radius: 50%;\n    width: 40px;\n    height: 40px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    cursor: pointer;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n  }\n\n  .nav-arrow:hover {\n    background-color: #ffffff;\n    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);\n  }\n\n  .arrow-left {\n    left: -20px;\n  }\n\n  .arrow-right {\n    right: -20px;\n  }\n\n  .nav-arrow::before {\n    content: '';\n    display: block;\n    border: solid #333;\n    border-width: 0 3px 3px 0;\n    padding: 5px;\n  }\n\n  .arrow-left::before {\n    transform: rotate(135deg);\n  }\n\n  .arrow-right::before {\n    transform: rotate(-45deg);\n  }\n\n  @media (max-width: 768px) {\n    .trustpilot-reviews-section {\n      flex-direction: column;\n      padding: 10px;\n    }\n\n    .trustpilot-summary {\n      flex-basis: 100%;\n      text-align: center;\n      margin-bottom: 20px;\n    }\n\n    .trustpilot-stars img {\n      width: 80px;\n      margin: 0 auto;\n    }\n\n    .trustpilot-logo {\n      width: 80px;\n      margin: 0 auto;\n    }\n\n    .review-carousel {\n      flex-basis: 100%;\n      overflow-x: auto;\n      padding-bottom: 10px;\n    }\n\n    .review-card {\n      min-width: 85%;\n      margin-right: 10px;\n    }\n\n    .nav-arrow {\n      display: none;\n    }\n  }\n</style>\n\n<div class=\"trustpilot-reviews-section\">\n  <div class=\"trustpilot-summary\">\n    <h2>Eccellente!</h2>\n    <div class=\"trustpilot-stars\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"Valutazione 5 stelle\">\n    </div>\n    <p>Basato su oltre 450 recensioni</p>\n    <img class=\"trustpilot-logo\" src=\"https://companieslogo.com/img/orig/TRST.L_BIG-743be58a.png?t=1720244494\">\n  </div>\n\n  <div class=\"review-carousel\" id=\"review-carousel\">\n\n    <div class=\"review-card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"Valutazione 5 stelle\">\n      <p><strong>Verificato</strong></p>\n      <p>Ero scettica all'inizio, ma dopo tre notti il dolore al collo era già sparito. La schiuma del cuscino Seremium si adatta perfettamente alla testa e al collo, senza essere né troppo rigida né troppo morbida. Non tornerei mai al mio vecchio cuscino.</p>\n      <p><strong>Giulia M.</strong> - 12/08/2025</p>\n    </div>\n\n    <div class=\"review-card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"Valutazione 5 stelle\">\n      <p><strong>Verificato</strong></p>\n      <p>Ho scelto l'altezza più alta perché dormo sul fianco e finalmente la colonna è allineata. Niente più rigidità alla mattina. La fodera in bambù del cuscino Seremium è morbidissima e non scalda per niente. Acquisto consigliatissimo.</p>\n      <p><strong>Marco R.</strong> - 29/07/2025</p>\n    </div>\n\n    <div class=\"review-card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"Valutazione 5 stelle\">\n      <p><strong>Verificato</strong></p>\n      <p>Il mio fisioterapista mi aveva consigliato un cuscino ergonomico da mesi. Ho preso il cuscino ortopedico Seremium e la differenza è stata immediata: meno tensioni alle spalle, niente emicranie al mattino. La qualità della schiuma è davvero superiore.</p>\n      <p><strong>Alessandra C.</strong> - 02/10/2025</p>\n    </div>\n\n    <div class=\"review-card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"Valutazione 5 stelle\">\n      <p><strong>Verificato</strong></p>\n      <p>Russavo moltissimo e mia moglie non riusciva a dormire. Da quando uso il cuscino Seremium le mie vie respiratorie sono più aperte grazie all'allineamento del collo. I russamenti si sono ridotti tantissimo. Lo abbiamo ordinato anche per lei!</p>\n      <p><strong>Antonio B.</strong> - 18/09/2025</p>\n    </div>\n\n    <div class=\"review-card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"Valutazione 5 stelle\">\n      <p><strong>Verificato</strong></p>\n      <p>Sudo tantissimo di notte e tutti i cuscini che provavo diventavano caldi dopo un'ora. Con il cuscino Seremium la fodera in bambù mantiene una freschezza costante per tutta la notte. Ho dormito meglio già dalla prima notte.</p>\n      <p><strong>Valentina S.</strong> - 28/10/2025</p>\n    </div>\n\n    <div class=\"review-card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"Valutazione 5 stelle\">\n      <p><strong>Verificato</strong></p>\n      <p>Ho provato tanti cuscini ortopedici nel corso degli anni ma nessuno reggeva il confronto. La doppia altezza del Seremium è una trovata geniale: ho scelto quella più adatta a me. La schiuma non si schiaccia e mantiene la forma perfetta dopo settimane.</p>\n      <p><strong>Luca P.</strong> - 14/10/2025</p>\n    </div>\n\n    <div class=\"review-card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"Valutazione 5 stelle\">\n      <p><strong>Verificato</strong></p>\n      <p>Avevo forti dolori alla cervicale da anni, peggiorati dopo il lockdown passato davanti al computer. Il cuscino Seremium ha cambiato le mie notti: mi sveglio senza dolori e con molta più energia. Consegna veloce e imballo curatissimo.</p>\n      <p><strong>Federica T.</strong> - 05/09/2025</p>\n    </div>\n\n  </div>\n\n  <button class=\"nav-arrow arrow-left\" onclick=\"scrollReviews(-1)\"></button>\n  <button class=\"nav-arrow arrow-right\" onclick=\"scrollReviews(1)\"></button>\n</div>\n\n<script>\n  const reviewCarousel = document.getElementById('review-carousel');\n\n  function scrollReviews(direction) {\n    const scrollAmount = 320;\n    reviewCarousel.scrollBy({ left: direction * scrollAmount, behavior: 'smooth' });\n  }\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_PERnq7": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  .trustpilot-reviews-section {\n    display: flex;\n    justify-content: space-between;\n    padding: 20px;\n    background-color: #fffffff;\n    border-radius: 8px;\n    position: relative;\n  }\n\n  .trustpilot-summary {\n    flex-basis: 20%;\n    text-align: left;\n    color: #000000; /* Couleur noire pour tout le texte */\n  }\n\n  .trustpilot-summary h2 {\n    font-size: 24px;\n    font-weight: bold;\n    margin-bottom: 10px;\n    color: #000000; /* Couleur noire */\n  }\n\n  .trustpilot-summary p {\n    color: #000000; /* Couleur noire */\n  }\n\n  .trustpilot-stars img {\n    width: 100px;\n    margin-bottom: 10px;\n  }\n\n  .trustpilot-logo {\n    width: 100px;\n    margin-top: 10px;\n  }\n\n  .review-carousel {\n    display: flex;\n    flex-basis: 75%;\n    overflow: hidden;\n    position: relative;\n  }\n\n  .review-card {\n    width: 270px;\n    padding: 15px;\n    margin-right: 15px;\n    background-color: #ffffff;\n    border: 1px solid #eaeaea;\n    border-radius: 8px;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n    transition: transform 0.3s ease;\n    flex-shrink: 0;\n  }\n\n  .review-card:hover {\n    transform: scale(1.05);\n  }\n\n  .review-card img {\n    width: 70px;\n  }\n\n  .review-card p {\n    margin: 5px 0;\n    font-size: 14px;\n  }\n\n  .review-card strong {\n    font-weight: bold;\n  }\n\n  .nav-arrow {\n    position: absolute;\n    top: 50%;\n    transform: translateY(-50%);\n    background-color: #fff;\n    border: 2px solid #ddd;\n    border-radius: 50%;\n    width: 40px;\n    height: 40px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    cursor: pointer;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n  }\n\n  .nav-arrow:hover {\n    background-color: #f0f0f0;\n    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);\n  }\n\n  .arrow-left {\n    left: -20px; \n  }\n\n  .arrow-right {\n    right: -20px; \n  }\n\n  .nav-arrow::before {\n    content: '';\n    display: block;\n    border: solid #333;\n    border-width: 0 3px 3px 0;\n    padding: 5px;\n  }\n\n  .arrow-left::before {\n    transform: rotate(135deg);\n  }\n\n  .arrow-right::before {\n    transform: rotate(-45deg);\n  }\n\n  @media (max-width: 768px) {\n    .trustpilot-reviews-section {\n      flex-direction: column;\n      padding: 10px;\n    }\n\n    .trustpilot-summary {\n      flex-basis: 100%;\n      text-align: center; \n      margin-bottom: 20px;\n    }\n\n    .trustpilot-stars img {\n      width: 80px;\n      margin: 0 auto;\n    }\n\n    .trustpilot-logo {\n      width: 80px;\n      margin-top: 5px;\n      margin: 0 auto; \n    }\n\n    .review-carousel {\n      flex-basis: 100%;\n      overflow-x: auto;\n      padding-bottom: 10px;\n    }\n\n    .review-card {\n      min-width: 85%;\n      margin-right: 10px;\n    }\n\n    .nav-arrow {\n      display: none;\n    }\n  }\n</style>\n\n<div class=\"trustpilot-reviews-section\">\n  <div class=\"trustpilot-summary\">\n    <h2>Excellent !</h2>\n    <div class=\"trustpilot-stars\">\n      <!-- Modifier Lien Image ici pour les étoiles -->\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n    </div>\n    <p>Basé sur plus de 450 avis</p>\n    <!-- Modifier Lien Image ici pour logo -->\n    <img src=\"https://companieslogo.com/img/orig/TRST.L_BIG.D-f939d4a8.png?t=1720244494\" alt=\"Trustpilot logo\" class=\"trustpilot-logo\">\n\n  </div>\n\n  <div class=\"review-carousel\" id=\"review-carousel\">\n     <!-- Modifier Avis ICI -->\n    <div class=\"review-card\">\n      <!-- Modifier Lien Image ici pour les étoiles -->\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n      <p><strong>Vérifié</strong></p>\n      <p>C'est un vrai soulagement au quotidien</p>\n      <p>\"Le mouvement respirant est très doux et naturel. Ma fille se calme beaucoup plus vite au moment du coucher. Elle s'endort en imitant la respiration sans même s'en rendre compte. Un excellent produit.\"</p>\n      <p><strong>Camille R.</strong> - 23/07/2025</p>\n    </div>\n     <!-- Modifier Avis ICI -->\n    <div class=\"review-card\">\n      <!-- Modifier Lien Image ici pour les étoiles -->\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n      <p><strong>Vérifié</strong></p>\n      <p>Un compagnon rassurant</p>\n      <p>\"La peluche est très douce et la lumière est apaisante. Mon fils l'utilise chaque soir et ça l'aide clairement à se détendre après des journées agitées. Il l'emmène même avec lui en déplacement.\"</p>\n      <p><strong>Leila B.</strong> - 05/08/2025</p>\n    </div>\n    <!-- Modifier Avis ICI -->\n    <div class=\"review-card\">\n      <!-- Modifier Lien Image ici pour les étoiles -->\n      <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\">\n      <p><strong>Vérifié</strong></p>\n      <p>Surprenant et vraiment apaisant</p>\n      <p>\"Je l'ai acheté au départ pour mon enfant, mais je l'utilise aussi pour moi. Le mouvement respirant est lent et naturel, ça aide vraiment à relâcher la pression après une journée stressante. Je m'endors plus facilement et le sommeil est plus profond.\"</p>\n      <p><strong>Élodie M.</strong> - 16/11/2025</p>\n    </div>\n     <!-- Si vous voulez rajouter des Avis c'est ICI -->\n  </div>\n\n  <!-- Flèches de navigation -->\n  <button class=\"nav-arrow arrow-left\" onclick=\"scrollReviews(-1)\"></button>\n  <button class=\"nav-arrow arrow-right\" onclick=\"scrollReviews(1)\"></button>\n</div>\n\n<script>\n  const reviewCarousel = document.getElementById('review-carousel');\n\n  function scrollReviews(direction) {\n    const scrollAmount = 320; \n    reviewCarousel.scrollBy({ left: direction * scrollAmount, behavior: 'smooth' });\n  }\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "faq": {
@@ -367,6 +401,7 @@
     "multi_column_tjjDRJ",
     "featured-product",
     "custom_liquid_hmcLMV",
+    "custom_liquid_PERnq7",
     "faq"
   ]
 }

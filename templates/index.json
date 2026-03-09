@@ -245,26 +245,12 @@
             "show_empty": false
           }
         },
-        "variant-picker": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
-        },
-        "quantity-selector": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#f0c417",
+            "atc_button_background": "#0f2756",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
@@ -279,22 +265,22 @@
         "collapsible_text_qe3tym": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>"
+            "title": "Descrizione",
+            "content": "<p><strong>OrthoSleep è stato sviluppato da specialisti del sonno per migliorare postura, respirazione e qualità del riposo.</strong></p><p>Allineando correttamente la colonna cervicale, aiuta a ridurre dolori a collo, spalle e schiena, allevia la tensione muscolare e può contribuire a diminuire mal di testa e russamento.</p><p>La sua forma ergonomica a farfalla si adatta alla curva naturale del collo, offrendo supporto ottimale in ogni posizione — supina, laterale o a pancia in giù.</p><p>Realizzato in memory foam ad alta densità, garantisce comfort personalizzato e sostegno continuo per tutta la notte.</p><p>Ti svegli riposato, senza dolori… come rinato.</p>"
           }
         },
         "collapsible_text_dpB6Eq": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>"
+            "title": "Istruzioni per il lavaggio",
+            "content": "<p>Rimuovi la federa e lavala in lavatrice con un ciclo delicato a 30–40°C.<br/><br/>Lasciala asciugare all’aria completamente prima di rimetterla sul cuscino.<br/><br/>Il cuscino può essere pulito facilmente<strong> </strong>con un panno umido.</p>"
           }
         },
         "collapsible_text_iwGrML": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>"
+            "title": "Specifiche",
+            "content": "<ul><li><strong>Dimensioni</strong>: 63 cm (L) x 37 cm (P) x 13 cm (A).<br/></li><li><strong>Altezza del solco per il collo</strong>: 13 cm – la parte più profonda dove il collo si appoggia per un supporto ottimale.<br/></li><li><strong>Materiale della federa</strong>: Federa lussuosa, removibile e lavabile, in morbido tessuto setoso.<br/></li><li><strong>Materiale interno</strong>: Memory foam di alta qualità per un comfort e supporto superiori.</li></ul>"
           }
         }
       },
@@ -305,8 +291,6 @@
         "price",
         "liquid_XEy9ka",
         "rating",
-        "variant-picker",
-        "quantity-selector",
         "buy-buttons",
         "liquid_fmJXEm",
         "collapsible_text_qe3tym",

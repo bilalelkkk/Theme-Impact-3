@@ -95,7 +95,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Vu sur :",
+        "title": "Visto su :",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
@@ -140,9 +140,9 @@
           "settings": {
             "image": "shopify://shop_images/E.webp",
             "column_size": "3",
-            "title": "« Ma migraine matinale a disparu. Je n'aurais jamais cru que c'était lié à mon oreiller »",
+            "title": "« La mia emicrania mattutina è scomparsa. Non avrei mai creduto che fosse legata al mio cuscino »",
             "heading_tag": "h4",
-            "content": "<p>J'avais des maux de tête au réveil presque chaque matin. Un ami m'a parlé de l'alignement cervical pendant le sommeil. J'ai tenté, et depuis un mois, plus une seule migraine matinale. Je suis stupéfaite du résultat.</p>",
+            "content": "<p>Avevo mal di testa al risveglio quasi ogni mattina. Un amico mi ha parlato dell'allineamento cervicale durante il sonno. Ho provato, e da un mese, nemmeno un'emicrania mattutina. Sono sbalordita dal risultato.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -153,9 +153,9 @@
           "settings": {
             "image": "shopify://shop_images/D.webp",
             "column_size": "3",
-            "title": "« Mon kiné dit que c'est exactement ce qu'il fallait à ma nuque »",
+            "title": "« Il mio fisioterapista dice che è esattamente ciò di cui aveva bisogno la mia nuca »",
             "heading_tag": "h4",
-            "content": "<p>Après une opération du rachis cervical, mon kinésithérapeute m'a orienté vers ce type d'oreiller. Le maintien est parfait, la mousse s'adapte sans jamais s'écraser. Depuis, je ne pourrais plus revenir à un oreiller classique.</p>",
+            "content": "<p>Dopo un'operazione alla colonna cervicale, il mio fisioterapista mi ha indirizzato verso questo tipo di cuscino. Il sostegno è perfetto, la schiuma si adatta senza mai schiacciarsi. Da allora, non potrei più tornare a un cuscino classico.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -166,9 +166,9 @@
           "settings": {
             "image": "shopify://shop_images/G.webp",
             "column_size": "3",
-            "title": "« En deux semaines, mes douleurs cervicales ont presque totalement disparu »",
+            "title": "« In due settimane, i miei dolori cervicali sono quasi completamente scomparsi »",
             "heading_tag": "h4",
-            "content": "<p>Je souffrais de cervicalgies depuis trois ans. Mon ostéopathe m'avait conseillé de changer d'oreiller mais j'avais toujours repoussé. Depuis que j'ai cet oreiller orthopédique, je me réveille sans raideur et sans mal de tête. C'est la première chose que je recommande à mes proches.</p>",
+            "content": "<p>Soffrivo di cervicalgie da tre anni. Il mio osteopata mi aveva consigliato di cambiare cuscino ma avevo sempre rimandato. Da quando ho questo cuscino ortopedico, mi sveglio senza rigidità e senza mal di testa. È la prima cosa che raccomando alle persone care.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -179,9 +179,9 @@
           "settings": {
             "image": "shopify://shop_images/C.webp",
             "column_size": "3",
-            "title": "« Je me réveille reposé pour la première fois depuis des années »",
+            "title": "« Mi sveglio riposato per la prima volta da anni »",
             "heading_tag": "h4",
-            "content": "<p>Je suis un grand sceptique des produits \"miracle\", mais là je dois admettre que c'est bluffant. Dès la troisième nuit, je dormais sans me retourner. La mousse à mémoire de forme maintient parfaitement sans donner chaud.</p>",
+            "content": "<p>Sono molto scettico riguardo ai prodotti \"miracolosi\", ma qui devo ammettere che è sorprendente. Dalla terza notte, dormivo senza rigirarmi. La schiuma memory foam sostiene perfettamente senza dare caldo.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -201,7 +201,7 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Vous en parlez mieux que nous :",
+        "title": "Ne parlate meglio di noi :",
         "content": "",
         "background": "",
         "background_gradient": "",

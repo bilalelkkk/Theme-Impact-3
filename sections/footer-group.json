@@ -102,7 +102,7 @@
           "settings": {
             "title": "Assistenza clienti 24/7",
             "content": "<p>Un team di esperti a vostra disposizione, dal lunedì al sabato dalle 8:00 alle 20:30. <br/><br/>Perché ogni domanda merita una risposta rapida, precisa e umana. <br/><br/>Tempo di risposta medio : 2 ore.</p><p>📧 <strong>contact@seremium.com</strong></p>",
-            "enable_follow_on_shop": true
+            "enable_follow_on_shop": false
           }
         }
       },

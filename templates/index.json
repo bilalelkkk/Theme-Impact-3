@@ -100,7 +100,7 @@
         "text_alignment": "center",
         "items_per_row": 5,
         "background": "",
-        "background_gradient": "",
+        "background_gradient": "linear-gradient(180deg, rgba(NaN, NaN, NaN, 0), rgba(15, 39, 86, 1) 100%, rgba(255, 140, 162, 1) 100%)",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",

@@ -135,14 +135,14 @@
     "multi_column_tjjDRJ": {
       "type": "multi-column",
       "blocks": {
-        "item_aMRiaY": {
+        "item_3qGxXq": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/E.webp",
+            "image": "shopify://shop_images/Avis2.png",
             "column_size": "3",
-            "title": "« La mia emicrania mattutina è scomparsa. Non avrei mai creduto che fosse legata al mio cuscino »",
+            "title": "« Non riuscivo a dormire su un fianco senza svegliarmi con il braccio intorpidito »",
             "heading_tag": "h4",
-            "content": "<p>Avevo mal di testa al risveglio quasi ogni mattina. Un amico mi ha parlato dell'allineamento cervicale durante il sonno. Ho provato, e da un mese, nemmeno un'emicrania mattutina. Sono sbalordita dal risultato.</p>",
+            "content": "<p>Dormivo sempre sulla schiena perché girarmi su un fianco mi causava formicolii al braccio e alla spalla. Ho letto che poteva essere legato alla posizione del cuscino. Da quando uso questo cuscino ortopedico, dormo su entrambi i lati senza alcun problema. Non avrei mai pensato che la soluzione fosse così semplice.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -156,6 +156,19 @@
             "title": "« Il mio fisioterapista dice che è esattamente ciò di cui aveva bisogno la mia nuca »",
             "heading_tag": "h4",
             "content": "<p>Dopo un'operazione alla colonna cervicale, il mio fisioterapista mi ha indirizzato verso questo tipo di cuscino. Il sostegno è perfetto, la schiuma si adatta senza mai schiacciarsi. Da allora, non potrei più tornare a un cuscino classico.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_aMRiaY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/E.webp",
+            "column_size": "3",
+            "title": "« La mia emicrania mattutina è scomparsa. Non avrei mai creduto che fosse legata al mio cuscino »",
+            "heading_tag": "h4",
+            "content": "<p>Avevo mal di testa al risveglio quasi ogni mattina. Un amico mi ha parlato dell'allineamento cervicale durante il sonno. Ho provato, e da un mese, nemmeno un'emicrania mattutina. Sono sbalordita dal risultato.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -186,13 +199,28 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_Cr7B6A": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Avis1.png",
+            "column_size": "3",
+            "title": "« Il mio medico mi aveva detto di cambiare cuscino da anni. Avrei dovuto ascoltarlo prima »",
+            "heading_tag": "h4",
+            "content": "<p>Avevo dolori alla nuca cronici da quasi due anni. Il mio medico mi ripeteva sempre che il cuscino poteva essere la causa, ma continuavo a rimandare. Ho ceduto dopo aver visto i risultati di un'amica. Dalla prima settimana, la differenza era già evidente. Mi sveglio senza rigidità e finalmente dormo tutta la notte senza interrompermi.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
-        "item_aMRiaY",
+        "item_3qGxXq",
         "item_Uw7rwV",
+        "item_aMRiaY",
         "item_Mg9F4B",
-        "item_NwxFyN"
+        "item_NwxFyN",
+        "item_Cr7B6A"
       ],
       "name": "Multi-column",
       "settings": {

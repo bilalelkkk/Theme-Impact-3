@@ -151,7 +151,7 @@
         "item_Uw7rwV": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/D.webp",
+            "image": "shopify://shop_images/OK.png",
             "column_size": "3",
             "title": "« Il mio fisioterapista dice che è esattamente ciò di cui aveva bisogno la mia nuca »",
             "heading_tag": "h4",
@@ -365,8 +365,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Pc.png",
-        "mobile_image": "shopify://shop_images/Tel.png",
+        "image": "shopify://shop_images/Laptop.jpg",
+        "mobile_image": "shopify://shop_images/Phone.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",

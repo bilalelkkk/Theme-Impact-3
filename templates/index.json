@@ -164,7 +164,7 @@
         "item_aMRiaY": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/E.webp",
+            "image": "shopify://shop_images/B.png",
             "column_size": "3",
             "title": "« La mia emicrania mattutina è scomparsa. Non avrei mai creduto che fosse legata al mio cuscino »",
             "heading_tag": "h4",
@@ -177,7 +177,7 @@
         "item_Mg9F4B": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/G.webp",
+            "image": "shopify://shop_images/A.png",
             "column_size": "3",
             "title": "« In due settimane, i miei dolori cervicali sono quasi completamente scomparsi »",
             "heading_tag": "h4",
@@ -190,7 +190,7 @@
         "item_NwxFyN": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/C.webp",
+            "image": "shopify://shop_images/C1.png",
             "column_size": "3",
             "title": "« Mi sveglio riposato per la prima volta da anni »",
             "heading_tag": "h4",

@@ -111,6 +111,49 @@
         "input_text_color": ""
       }
     },
+    "rich_text_deejAq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_pBTiKt": {
+          "type": "heading",
+          "settings": {
+            "text": "Il nostro cuscino o un cuscino classico ?",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_pBTiKt"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_AQAUJW": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Pc.png",
+        "mobile_image": "shopify://shop_images/Tel.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -149,6 +192,8 @@
   },
   "order": [
     "main",
+    "rich_text_deejAq",
+    "image_with_text_overlay_AQAUJW",
     "related-products",
     "custom_liquid_KLJR6H"
   ]

@@ -20,8 +20,8 @@
       "type": "contact",
       "settings": {
         "full_width": true,
-        "subheading": "Contattaci",
-        "title": "Avete delle domande ?",
+        "subheading": "Contactez‑nous",
+        "title": "Une question ?",
         "content": "",
         "text_position": "center",
         "contact_form_size": "large",
@@ -32,7 +32,7 @@
         "heading_gradient": "",
         "contact_background": "",
         "contact_text_color": "",
-        "button_background": "#0f2756",
+        "button_background": "#053a32",
         "button_text_color": ""
       }
     }

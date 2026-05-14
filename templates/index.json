@@ -304,6 +304,161 @@
         "input_text_color": ""
       }
     },
+    "multi_column_BExjeJ": {
+      "type": "multi-column",
+      "blocks": {
+        "item_XPiYEE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1_f1957026-1ff4-437a-bd9f-4cfa07985d26.avif",
+            "column_size": "3",
+            "title": "GAILLET GRATERON",
+            "heading_tag": "h4",
+            "content": "<p>Les études scientifiques le présentent comme le \"tonique lymphatique\" pour remettre la lymphe en mouvement. Il est reconnu pour son activité antioxydante sur les vaisseaux et capillaires grâce à ses polyphénols, ce qui les rends moins poreux. </p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_fcDndQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2_71f321a8-f6b9-4d9b-b758-72cc14cb132e.avif",
+            "column_size": "3",
+            "title": "TREFLE ROUGE",
+            "heading_tag": "h4",
+            "content": "<p>Il contient des isoflavones qui protègent les vaisseaux des lésions oxydatives, ces \"étincelles\" qui créent des fuites d'eau. En 2012, une étude a démontré que le trèfle rouge possède \"une activité antioxydante marquée\" et aide à lisser les variations hormonales féminines.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_VrcM8b": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_975d6f28-3e01-4cf1-9e87-0d4a4bf20902.avif",
+            "column_size": "3",
+            "title": "STILLINGIA",
+            "heading_tag": "h4",
+            "content": "<p>\"Le délice de la reine\" traditionnellement utilisé en sirop par les amérindiens comme \"stimulant lymphatique\" et pour éliminer les toxines et les déchets du corps.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Fr3iCw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4.avif",
+            "column_size": "3",
+            "title": "FRÊNE PIQUANT",
+            "heading_tag": "h4",
+            "content": "<p>Le frêne favorise l'élimination de l'excès d'eau en \"douceur\" sans effet diurétique. Il est aussi reconnu pour ses propriétés antioxydantes et anti-inflammatoire car il contient lui aussi des polyphénols. Il est aussi reconnu pour réduire les gonflements en limitant les fuites vasculaires.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_XPiYEE",
+        "item_fcDndQ",
+        "item_VrcM8b",
+        "item_Fr3iCw"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Les 4 plantes de l'élixir Lynaye",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_nbnQwc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JzqrVM": {
+          "type": "heading",
+          "settings": {
+            "text": "Un rituel naturel au quotidien",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_JzqrVM"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "images_with_text_scrolling_nAagGw": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_KQiFfM": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/A_OK.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Etape 1",
+            "content": "<p>Bien agiter avant utilisation (idéalement le matin, à jeun)</p>"
+          }
+        },
+        "item_tP7JUE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/B_OK.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Etape 2",
+            "content": "<p>Diluer 1 à 2ml (l'équivalent d'une cuillère à café) dans un verre d'eau ou prenez directement sous la langue pour une absorption rapide.</p>"
+          }
+        },
+        "item_9kKdUt": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/C_OK.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Etape 3",
+            "content": "<p>Faites en votre rituel quotidien, tous les matins et ressentez la différence dès le 1er mois.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_KQiFfM",
+        "item_tP7JUE",
+        "item_9kKdUt"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "rich_text_R8crGK": {
       "type": "rich-text",
       "name": "Rich text",
@@ -407,6 +562,9 @@
     "before-after-image",
     "multi_column_tjjDRJ",
     "featured-product",
+    "multi_column_BExjeJ",
+    "rich_text_nbnQwc",
+    "images_with_text_scrolling_nAagGw",
     "rich_text_R8crGK",
     "faq"
   ]

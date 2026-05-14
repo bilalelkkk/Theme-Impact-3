@@ -304,6 +304,68 @@
         "input_text_color": ""
       }
     },
+    "multi_column_f3pXNp": {
+      "type": "multi-column",
+      "blocks": {
+        "item_6LLagT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/A.webp",
+            "column_size": "3",
+            "title": "L’eau retenue exerce une pression sur les tissus",
+            "heading_tag": "h4",
+            "content": "<p>Jambes lourdes, ventre gonflé, visage bouffi… le corps finit par saturer.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3X6Xkn": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/B.webp",
+            "column_size": "3",
+            "title": "Quand la lymphe ralentit, le corps stagne",
+            "heading_tag": "h4",
+            "content": "<p>Toxines, résidus et sensations de lourdeur s’installent progressivement.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_cYD7bx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/C.webp",
+            "column_size": "3",
+            "title": "Quand les tissus deviennent plus perméables",
+            "heading_tag": "h4",
+            "content": "<p>L’eau stagne davantage dans les tissus, créant gonflements et inconfort au quotidien.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_6LLagT",
+        "item_3X6Xkn",
+        "item_cYD7bx"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Le gonflement ne vient pas seulement du poids",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_BExjeJ": {
       "type": "multi-column",
       "blocks": {
@@ -562,6 +624,7 @@
     "before-after-image",
     "multi_column_tjjDRJ",
     "featured-product",
+    "multi_column_f3pXNp",
     "multi_column_BExjeJ",
     "rich_text_nbnQwc",
     "images_with_text_scrolling_nAagGw",

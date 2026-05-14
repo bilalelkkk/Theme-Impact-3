@@ -209,6 +209,12 @@
             "heading_tag": "h3"
           }
         },
+        "price_tJQjjC": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
         "liquid_tij9T8": {
           "type": "liquid",
           "settings": {
@@ -270,6 +276,7 @@
       "block_order": [
         "liquid_BQGczV",
         "title",
+        "price_tJQjjC",
         "liquid_tij9T8",
         "liquid_XEy9ka",
         "buy-buttons",
@@ -299,20 +306,6 @@
     },
     "rich_text_R8crGK": {
       "type": "rich-text",
-      "blocks": {
-        "heading_zEWwdp": {
-          "type": "heading",
-          "settings": {
-            "text": "Il nostro cuscino o un cuscino classico ?",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_zEWwdp"
-      ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -321,21 +314,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "image_with_text_overlay_9DFihp": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "faq": {
@@ -430,7 +408,6 @@
     "multi_column_tjjDRJ",
     "featured-product",
     "rich_text_R8crGK",
-    "image_with_text_overlay_9DFihp",
     "faq"
   ]
 }

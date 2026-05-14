@@ -23,20 +23,7 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Livraison suivie et sécurisée",
-            "content": ""
-          }
-        },
-        "free-shipping": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-box",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Retours simples et rapides",
+            "title": "Livraison OFFERTE",
             "content": ""
           }
         },
@@ -69,7 +56,6 @@
       },
       "block_order": [
         "item_FkRUrX",
-        "free-shipping",
         "payment",
         "item_LEyecc"
       ],

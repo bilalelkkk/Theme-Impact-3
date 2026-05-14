@@ -15,7 +15,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Img.jpg",
+            "image": "shopify://shop_images/Prod1OK.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
@@ -55,7 +55,7 @@
         "logo_tzemAN": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/gempages_505695185594745962-1ff1e73a-5a24-45d5-98cf-2d6a4170e2b4_1e88848a-5cc3-479b-89af-b60358541280.avif",
+            "logo": "shopify://shop_images/logo-seo_1.png",
             "logo_width": 300,
             "link": ""
           }
@@ -63,7 +63,7 @@
         "logo_QbfARh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/ITALIAN_MAGAZINE_-_TRUST_-_1_e2121375-8cc2-4725-a70f-3a73ea48bf61.avif",
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg.png",
             "logo_width": 300,
             "link": ""
           }
@@ -71,7 +71,7 @@
         "logo_6j3qbE": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/ITALIAN_MAGAZINE_-_TRUST_-_2_784bffb9-28bd-49f1-ae47-cc4ffde1ff79.avif",
+            "logo": "shopify://shop_images/8K.svg",
             "logo_width": 300,
             "link": ""
           }
@@ -79,7 +79,7 @@
         "logo_fiPHQQ": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/ITALIAN_MAGAZINE_-_TRUST_-_3_b533a661-daee-4b9f-8ce4-8b9ca3a50d6b.avif",
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
             "logo_width": 300,
             "link": ""
           }
@@ -95,7 +95,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Visto su :",
+        "title": "Vu sur :",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
@@ -104,7 +104,7 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "#0f2756",
+        "logo_item_background": "#f0f0f0",
         "logo_item_border": ""
       }
     },
@@ -113,15 +113,15 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Prima / Dopo",
+        "title": "Avant / Après",
         "content": "",
-        "before_image": "shopify://shop_images/hf_20260308_150130_121c4d4e-0903-4c22-a68d-b9b2b65b9c59.jpg",
-        "after_image": "shopify://shop_images/hf_20260321_204014_54ad45b1-9b96-457f-bff1-44f204fba224.jpg",
+        "before_image": "shopify://shop_images/imgi_32_gempages_584723707562295877-6fa8e13a-08a6-4b44-8b36-cbc5aa662c25.png",
+        "after_image": "shopify://shop_images/imgi_80_gempages_584723707562295877-b0890c2c-78b7-4c20-b173-bb955762da93.png",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",
-        "before_text": "Prima",
-        "after_text": "Dopo",
+        "before_text": "",
+        "after_text": "",
         "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
@@ -138,11 +138,11 @@
         "item_aMRiaY": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/B.png",
+            "image": "shopify://shop_images/Avis_1.png",
             "column_size": "3",
             "title": "« Non riuscivo a dormire su un fianco senza svegliarmi con il braccio intorpidito »",
             "heading_tag": "h4",
-            "content": "<p>Dormivo solo sulla schiena da anni perché girarmi su un fianco mi causava formicolii insopportabili al braccio e alla spalla. Dopo qualche ricerca, ho capito che il problema era l'altezza del mio cuscino. Da quando uso questo cuscino ortopedico, dormo su entrambi i lati tutta la notte, senza mai svegliarmi. Non avrei mai immaginato che bastasse cambiare cuscino per ritrovare un sonno normale.</p>",
+            "content": "<p>“Honnêtement, je ne pensais pas voir une telle différence aussi rapidement. Après quelques jours seulement, cette sensation de jambes lourdes avait déjà énormément diminué. Aujourd’hui, je me réveille avec les jambes légères, sans inconfort ni tension dès le matin. J’avais testé les massages, les bas de contention et plusieurs solutions hors de prix sans résultat durable… Là, pour la première fois, j’ai enfin trouvé quelque chose qui m’aide réellement au quotidien.”</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -151,11 +151,11 @@
         "item_3qGxXq": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Avis2.png",
+            "image": "shopify://shop_images/Avis_2.png",
             "column_size": "3",
             "title": "« La mia emicrania mattutina è scomparsa. Non avrei mai creduto che fosse legata al mio cuscino »",
             "heading_tag": "h4",
-            "content": "<p>Mi svegliavo con il mal di testa quasi ogni mattina da più di un anno. Un amico mi ha parlato dell'impatto del cuscino sull'allineamento cervicale durante il sonno, ero scettica, ma ho deciso di provare. Risultato da oltre un mese, nessuna emicrania al risveglio. Sono ancora sorpresa che qualcosa di così semplice abbia fatto una differenza così grande sulla mia qualità di vita.</p>",
+            "content": "<p>“En moins d’un mois, j’ai vu une vraie différence sur mes cuisses et mes hanches. Mes vêtements tombent mieux, je me sens beaucoup moins gonflée et surtout plus à l’aise dans mon corps. Ce que j’adore, c’est l’effet progressif et naturel : pas de sensation agressive, juste un vrai changement visible au fil des semaines. Franchement, je ne m’attendais pas à des résultats aussi bluffants.”</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -164,50 +164,11 @@
         "item_Mg9F4B": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/A.png",
+            "image": "shopify://shop_images/Avis_3.png",
             "column_size": "3",
             "title": "« Il mio fisioterapista dice che è esattamente ciò di cui aveva bisogno la mia nuca »",
             "heading_tag": "h4",
-            "content": "<p>Dopo un intervento alla colonna cervicale, il mio fisioterapista mi ha fortemente consigliato questo tipo di cuscino per favorire la guarigione. Il sostegno è perfetto, la schiuma si adatta alla forma del collo senza mai schiacciarsi durante la notte. I miei controlli mostrano un netto miglioramento nell'allineamento cervicale. Non tornerò mai più a un cuscino classico.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_Uw7rwV": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/OK.png",
-            "column_size": "3",
-            "title": "« In due settimane, i miei dolori cervicali sono quasi completamente scomparsi »",
-            "heading_tag": "h4",
-            "content": "<p>Soffrivo di cervicalgie croniche da tre anni. Il mio osteopata mi ripeteva di cambiare cuscino, ma continuavo a rimandare pensando che non cambiasse nulla. Mi sbagliavo. In meno di due settimane con questo cuscino ortopedico, mi sveglio senza rigidità, senza mal di testa, e finalmente riposato. È il primo acquisto che consiglio a chiunque si lamenti di dolori al collo.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_NwxFyN": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/C1.png",
-            "column_size": "3",
-            "title": "« Mi sveglio riposato per la prima volta da anni »",
-            "heading_tag": "h4",
-            "content": "<p>Sono una persona molto scettica riguardo ai prodotti che promettono miracoli. Ma qui devo essere onesto, sono rimasto senza parole. Già dalla terza notte dormivo senza rigirarmi continuamente. La memory foam sostiene perfettamente il collo senza trattenere calore. Non mi aspettavo risultati così rapidi, e sono felice di essermi sbagliato.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_Cr7B6A": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Avis1.png",
-            "column_size": "3",
-            "title": "« Il mio medico mi aveva detto di cambiare cuscino da anni. Avrei dovuto ascoltarlo prima »",
-            "heading_tag": "h4",
-            "content": "<p>Avevo dolori cronici alla nuca da quasi due anni. Il mio medico insisteva sempre che il cuscino potesse essere la causa, ma continuavo a ignorarlo. Ho ceduto solo dopo aver visto i risultati di un'amica, e me ne pento solo per non averlo fatto prima. Dalla prima settimana la differenza era già evidente, mi sveglio senza rigidità e dormo tutta la notte senza interruzioni.</p>",
+            "content": "<p>“Le changement le plus impressionnant pour moi, c’est au niveau des chevilles et des jambes en fin de journée. Avant, j’avais cette sensation d’être gonflée et compressée après le travail. Maintenant, je me sens beaucoup plus légère et confortable, même après être restée debout longtemps. Dès le réveil, mes jambes paraissent plus fines et moins lourdes. Ça a vraiment changé mon quotidien.”</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -217,10 +178,7 @@
       "block_order": [
         "item_aMRiaY",
         "item_3qGxXq",
-        "item_Mg9F4B",
-        "item_Uw7rwV",
-        "item_NwxFyN",
-        "item_Cr7B6A"
+        "item_Mg9F4B"
       ],
       "name": "Multi-column",
       "settings": {
@@ -229,7 +187,7 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Ne parlate meglio di noi :",
+        "title": "Vous en parlez mieux que nous :",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -242,7 +200,7 @@
         "liquid_BQGczV": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"sf-rating-block\">\n  <div class=\"sf-stars\">\n    {% for i in (1..5) %}\n      <svg viewBox=\"0 0 576 512\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    {% endfor %}\n  </div>\n  <span class=\"sf-rating-text\">Eccellente ! Oltre <span class=\"sf-count\">1.122 recensioni</span></span>\n</div>\n<style>\n.sf-rating-block {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  margin: 15px 0;\n  font-family: inherit;\n}\n.sf-stars {\n  display: flex;\n  gap: 2px;\n}\n.sf-stars svg {\n  width: 20px;\n  height: 20px;\n  fill: #0F2756;\n}\n.sf-rating-text {\n  font-size: 15px;\n  font-weight: 500;\n  color: #000000;\n  line-height: 1.2;\n}\n.sf-count {\n  font-weight: 700;\n  text-decoration: underline;\n}\n@media (max-width: 749px) {\n  .sf-rating-text { font-size: 13px; }\n  .sf-stars svg { width: 16px; height: 16px; }\n}\n</style>"
+            "liquid": "<div class=\"sf-rating-block\">\n  <div class=\"sf-stars\">\n    {% for i in (1..5) %}\n      <svg viewBox=\"0 0 576 512\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    {% endfor %}\n  </div>\n  <span class=\"sf-rating-text\">Excellent ! Plus de <span class=\"sf-count\">1 122 avis</span></span>\n</div>\n\n<style>\n.sf-rating-block {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  margin: 15px 0;\n  font-family: inherit;\n}\n.sf-stars {\n  display: flex;\n  gap: 2px;\n}\n.sf-stars svg {\n  width: 20px;\n  height: 20px;\n  fill: #053A32; /* Nouvelle couleur */\n}\n.sf-rating-text {\n  font-size: 15px;\n  font-weight: 500;\n  color: #000000;\n  line-height: 1.2;\n}\n.sf-count {\n  font-weight: 700;\n  text-decoration: underline;\n}\n@media (max-width: 749px) {\n  .sf-rating-text { font-size: 13px; }\n  .sf-stars svg { width: 16px; height: 16px; }\n}\n</style>"
           }
         },
         "title": {
@@ -254,20 +212,13 @@
         "liquid_tij9T8": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .benefits-section {\n    max-width: 800px;\n    margin: 0 auto;\n    padding: 0;\n  }\n  .benefits-list {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n  }\n  .benefit-item {\n    display: flex;\n    align-items: center;\n    margin-bottom: 12px;\n  }\n  .benefit-item:last-child {\n    margin-bottom: 0;\n  }\n  .benefit-icon {\n    width: 35px;\n    height: 35px;\n    min-width: 35px;\n    background: linear-gradient(135deg, #0F2756 0%, #1a3d7a 100%);\n    border-radius: 50%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    margin-right: 12px;\n    box-shadow: 0 2px 10px rgba(15, 39, 86, 0.4);\n  }\n  .benefit-icon svg {\n    width: 16px;\n    height: 16px;\n    stroke: #FFFFFF;\n    stroke-width: 3;\n    fill: none;\n    stroke-linecap: round;\n    stroke-linejoin: round;\n  }\n  .benefit-text {\n    font-size: 16px;\n    font-weight: 700;\n    color: #2D2D2D;\n    line-height: 1.3;\n  }\n  @media (max-width: 768px) {\n    .benefit-text {\n      font-size: 14px;\n    }\n    .benefit-icon {\n      width: 30px;\n      height: 30px;\n      min-width: 30px;\n    }\n    .benefit-icon svg {\n      width: 14px;\n      height: 14px;\n    }\n    .benefit-item {\n      margin-bottom: 10px;\n    }\n  }\n</style>\n\n<div class=\"benefits-section\">\n  <ul class=\"benefits-list\">\n    <li class=\"benefit-item\">\n      <div class=\"benefit-icon\">\n        <svg viewBox=\"0 0 24 24\"><polyline points=\"20 6 9 17 4 12\"></polyline></svg>\n      </div>\n      <span class=\"benefit-text\">Allevia il dolore a collo, spalle e schiena</span>\n    </li>\n    <li class=\"benefit-item\">\n      <div class=\"benefit-icon\">\n        <svg viewBox=\"0 0 24 24\"><polyline points=\"20 6 9 17 4 12\"></polyline></svg>\n      </div>\n      <span class=\"benefit-text\">Migliora la postura e riduce russare e mal di testa</span>\n    </li>\n    <li class=\"benefit-item\">\n      <div class=\"benefit-icon\">\n        <svg viewBox=\"0 0 24 24\"><polyline points=\"20 6 9 17 4 12\"></polyline></svg>\n      </div>\n      <span class=\"benefit-text\">Ideale per ogni posizione del sonno</span>\n    </li>\n    <li class=\"benefit-item\">\n      <div class=\"benefit-icon\">\n        <svg viewBox=\"0 0 24 24\"><polyline points=\"20 6 9 17 4 12\"></polyline></svg>\n      </div>\n      <span class=\"benefit-text\">Garantisce notti più riposanti e profonde</span>\n    </li>\n  </ul>\n</div>"
+            "liquid": "<style>\n  .benefits-section {\n    max-width: 800px;\n    margin: 0 auto;\n    padding: 0;\n  }\n  .benefits-list {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n  }\n  .benefit-item {\n    display: flex;\n    align-items: center;\n    margin-bottom: 12px;\n  }\n  .benefit-item:last-child {\n    margin-bottom: 0;\n  }\n  .benefit-icon {\n    width: 35px;\n    height: 35px;\n    min-width: 35px;\n    background: linear-gradient(135deg, #053A32 0%, #0b5a4d 100%);\n    border-radius: 50%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    margin-right: 12px;\n    box-shadow: 0 2px 10px rgba(5, 58, 50, 0.4);\n  }\n  .benefit-icon svg {\n    width: 16px;\n    height: 16px;\n    stroke: #FFFFFF;\n    stroke-width: 3;\n    fill: none;\n    stroke-linecap: round;\n    stroke-linejoin: round;\n  }\n  .benefit-text {\n    font-size: 16px;\n    font-weight: 700;\n    color: #2D2D2D;\n    line-height: 1.3;\n  }\n  @media (max-width: 768px) {\n    .benefit-text {\n      font-size: 14px;\n    }\n    .benefit-icon {\n      width: 30px;\n      height: 30px;\n      min-width: 30px;\n    }\n    .benefit-icon svg {\n      width: 14px;\n      height: 14px;\n    }\n    .benefit-item {\n      margin-bottom: 10px;\n    }\n  }\n</style>\n\n<div class=\"benefits-section\">\n  <ul class=\"benefits-list\">\n\n    <li class=\"benefit-item\">\n      <div class=\"benefit-icon\">\n        <svg viewBox=\"0 0 24 24\"><polyline points=\"20 6 9 17 4 12\"></polyline></svg>\n      </div>\n      <span class=\"benefit-text\">Taille plus fine, jambes légères</span>\n    </li>\n\n    <li class=\"benefit-item\">\n      <div class=\"benefit-icon\">\n        <svg viewBox=\"0 0 24 24\"><polyline points=\"20 6 9 17 4 12\"></polyline></svg>\n      </div>\n      <span class=\"benefit-text\">Visage redéfini et dégonflé</span>\n    </li>\n\n    <li class=\"benefit-item\">\n      <div class=\"benefit-icon\">\n        <svg viewBox=\"0 0 24 24\"><polyline points=\"20 6 9 17 4 12\"></polyline></svg>\n      </div>\n      <span class=\"benefit-text\">Améliore la circulation de votre lymphe</span>\n    </li>\n\n    <li class=\"benefit-item\">\n      <div class=\"benefit-icon\">\n        <svg viewBox=\"0 0 24 24\"><polyline points=\"20 6 9 17 4 12\"></polyline></svg>\n      </div>\n      <span class=\"benefit-text\">Renforce votre confort digestif</span>\n    </li>\n\n  </ul>\n</div>"
           }
         },
         "liquid_XEy9ka": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"stock-alert\">\n  <span class=\"pulse-wrapper\">\n    <span class=\"pulse-dot\"></span>\n  </span>\n  <span class=\"stock-text\">\n    <strong>Pochi articoli rimasti in stock</strong> – Affrettatevi.\n  </span>\n</div>\n<style>\n.stock-alert {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  font-family: Arial, sans-serif;\n  font-size: 13px;\n  color: #dc3545;\n}\n.pulse-wrapper {\n  position: relative;\n  width: 14px;\n  height: 14px;\n  display: inline-block;\n}\n.pulse-dot {\n  width: 10px;\n  height: 10px;\n  background-color: #dc3545;\n  border-radius: 50%;\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  z-index: 2;\n  box-shadow: 0 0 0 4px rgba(220, 53, 69, 0.3);\n}\n.pulse-wrapper::before {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  width: 10px;\n  height: 10px;\n  background-color: #dc3545;\n  border-radius: 50%;\n  transform: translate(-50%, -50%) scale(1);\n  animation: pulse 1.5s infinite ease-out;\n  opacity: 0.5;\n  z-index: 1;\n}\n@keyframes pulse {\n  0% {\n    transform: translate(-50%, -50%) scale(1);\n    opacity: 0.5;\n  }\n  50% {\n    transform: translate(-50%, -50%) scale(2.2);\n    opacity: 0;\n  }\n  100% {\n    transform: translate(-50%, -50%) scale(1);\n    opacity: 0;\n  }\n}\n</style>"
-          }
-        },
-        "kaching_bundles_app_block_A9cnTd": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}",
-            "manual_deal_block_id": ""
+            "liquid": "<div class=\"stock-alert\">\n  <span class=\"pulse-wrapper\">\n    <span class=\"pulse-dot\"></span>\n  </span>\n  <span class=\"stock-text\">\n    <strong>Peu d’articles restants en stock</strong> – Dépêchez‑vous.\n  </span>\n</div>\n\n<style>\n.stock-alert {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  font-family: Arial, sans-serif;\n  font-size: 13px;\n  color: #dc3545;\n}\n.pulse-wrapper {\n  position: relative;\n  width: 14px;\n  height: 14px;\n  display: inline-block;\n}\n.pulse-dot {\n  width: 10px;\n  height: 10px;\n  background-color: #dc3545;\n  border-radius: 50%;\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  z-index: 2;\n  box-shadow: 0 0 0 4px rgba(220, 53, 69, 0.3);\n}\n.pulse-wrapper::before {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  width: 10px;\n  height: 10px;\n  background-color: #dc3545;\n  border-radius: 50%;\n  transform: translate(-50%, -50%) scale(1);\n  animation: pulse 1.5s infinite ease-out;\n  opacity: 0.5;\n  z-index: 1;\n}\n@keyframes pulse {\n  0% {\n    transform: translate(-50%, -50%) scale(1);\n    opacity: 0.5;\n  }\n  50% {\n    transform: translate(-50%, -50%) scale(2.2);\n    opacity: 0;\n  }\n  100% {\n    transform: translate(-50%, -50%) scale(1);\n    opacity: 0;\n  }\n}\n</style>"
           }
         },
         "buy-buttons": {
@@ -275,7 +226,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#0f2756",
+            "atc_button_background": "#053a32",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
@@ -314,7 +265,6 @@
         "title",
         "liquid_tij9T8",
         "liquid_XEy9ka",
-        "kaching_bundles_app_block_A9cnTd",
         "buy-buttons",
         "liquid_fmJXEm",
         "collapsible_text_qe3tym",
@@ -323,7 +273,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "orthosleep",
+        "product": "lynaye-drainant-lymphatique",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_bottom",
         "mobile_media_size": "expanded",
@@ -373,8 +323,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Laptop.jpg",
-        "mobile_image": "shopify://shop_images/Phone.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",

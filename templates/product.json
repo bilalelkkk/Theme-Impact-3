@@ -15,7 +15,7 @@
         "liquid_7BCNLq": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"sf-rating-block\">\n  <div class=\"sf-stars\">\n    {% for i in (1..5) %}\n      <svg viewBox=\"0 0 576 512\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    {% endfor %}\n  </div>\n  <span class=\"sf-rating-text\">Eccellente ! Oltre <span class=\"sf-count\">1.122 recensioni</span></span>\n</div>\n<style>\n.sf-rating-block {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  margin: 15px 0;\n  font-family: inherit;\n}\n.sf-stars {\n  display: flex;\n  gap: 2px;\n}\n.sf-stars svg {\n  width: 20px;\n  height: 20px;\n  fill: #0F2756;\n}\n.sf-rating-text {\n  font-size: 15px;\n  font-weight: 500;\n  color: #000000;\n  line-height: 1.2;\n}\n.sf-count {\n  font-weight: 700;\n  text-decoration: underline;\n}\n@media (max-width: 749px) {\n  .sf-rating-text { font-size: 13px; }\n  .sf-stars svg { width: 16px; height: 16px; }\n}\n</style>"
+            "liquid": "<div class=\"sf-rating-block\">\n  <div class=\"sf-stars\">\n    {% for i in (1..5) %}\n      <svg viewBox=\"0 0 576 512\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    {% endfor %}\n  </div>\n  <span class=\"sf-rating-text\">Excellent ! Plus de <span class=\"sf-count\">1 122 avis</span></span>\n</div>\n\n<style>\n.sf-rating-block {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  margin: 15px 0;\n  font-family: inherit;\n}\n.sf-stars {\n  display: flex;\n  gap: 2px;\n}\n.sf-stars svg {\n  width: 20px;\n  height: 20px;\n  fill: #053A32; /* Nouvelle couleur */\n}\n.sf-rating-text {\n  font-size: 15px;\n  font-weight: 500;\n  color: #000000;\n  line-height: 1.2;\n}\n.sf-count {\n  font-weight: 700;\n  text-decoration: underline;\n}\n@media (max-width: 749px) {\n  .sf-rating-text { font-size: 13px; }\n  .sf-stars svg { width: 16px; height: 16px; }\n}\n</style>"
           }
         },
         "title": {
@@ -24,22 +24,22 @@
             "heading_tag": "h2"
           }
         },
+        "price_Lkyt4c": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
         "liquid_HEjCM4": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .benefits-section {\n    max-width: 800px;\n    margin: 0 auto;\n    padding: 0;\n  }\n  .benefits-list {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n  }\n  .benefit-item {\n    display: flex;\n    align-items: center;\n    margin-bottom: 12px;\n  }\n  .benefit-item:last-child {\n    margin-bottom: 0;\n  }\n  .benefit-icon {\n    width: 35px;\n    height: 35px;\n    min-width: 35px;\n    background: linear-gradient(135deg, #0F2756 0%, #1a3d7a 100%);\n    border-radius: 50%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    margin-right: 12px;\n    box-shadow: 0 2px 10px rgba(15, 39, 86, 0.4);\n  }\n  .benefit-icon svg {\n    width: 16px;\n    height: 16px;\n    stroke: #FFFFFF;\n    stroke-width: 3;\n    fill: none;\n    stroke-linecap: round;\n    stroke-linejoin: round;\n  }\n  .benefit-text {\n    font-size: 16px;\n    font-weight: 700;\n    color: #2D2D2D;\n    line-height: 1.3;\n  }\n  @media (max-width: 768px) {\n    .benefit-text {\n      font-size: 14px;\n    }\n    .benefit-icon {\n      width: 30px;\n      height: 30px;\n      min-width: 30px;\n    }\n    .benefit-icon svg {\n      width: 14px;\n      height: 14px;\n    }\n    .benefit-item {\n      margin-bottom: 10px;\n    }\n  }\n</style>\n\n<div class=\"benefits-section\">\n  <ul class=\"benefits-list\">\n    <li class=\"benefit-item\">\n      <div class=\"benefit-icon\">\n        <svg viewBox=\"0 0 24 24\"><polyline points=\"20 6 9 17 4 12\"></polyline></svg>\n      </div>\n      <span class=\"benefit-text\">Allevia il dolore a collo, spalle e schiena</span>\n    </li>\n    <li class=\"benefit-item\">\n      <div class=\"benefit-icon\">\n        <svg viewBox=\"0 0 24 24\"><polyline points=\"20 6 9 17 4 12\"></polyline></svg>\n      </div>\n      <span class=\"benefit-text\">Migliora la postura e riduce russare e mal di testa</span>\n    </li>\n    <li class=\"benefit-item\">\n      <div class=\"benefit-icon\">\n        <svg viewBox=\"0 0 24 24\"><polyline points=\"20 6 9 17 4 12\"></polyline></svg>\n      </div>\n      <span class=\"benefit-text\">Ideale per ogni posizione del sonno</span>\n    </li>\n    <li class=\"benefit-item\">\n      <div class=\"benefit-icon\">\n        <svg viewBox=\"0 0 24 24\"><polyline points=\"20 6 9 17 4 12\"></polyline></svg>\n      </div>\n      <span class=\"benefit-text\">Garantisce notti più riposanti e profonde</span>\n    </li>\n  </ul>\n</div>"
+            "liquid": "<style>\n  .benefits-section {\n    max-width: 800px;\n    margin: 0 auto;\n    padding: 0;\n  }\n  .benefits-list {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n  }\n  .benefit-item {\n    display: flex;\n    align-items: center;\n    margin-bottom: 12px;\n  }\n  .benefit-item:last-child {\n    margin-bottom: 0;\n  }\n  .benefit-icon {\n    width: 35px;\n    height: 35px;\n    min-width: 35px;\n    background: linear-gradient(135deg, #053A32 0%, #0b5a4d 100%);\n    border-radius: 50%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    margin-right: 12px;\n    box-shadow: 0 2px 10px rgba(5, 58, 50, 0.4);\n  }\n  .benefit-icon svg {\n    width: 16px;\n    height: 16px;\n    stroke: #FFFFFF;\n    stroke-width: 3;\n    fill: none;\n    stroke-linecap: round;\n    stroke-linejoin: round;\n  }\n  .benefit-text {\n    font-size: 16px;\n    font-weight: 700;\n    color: #2D2D2D;\n    line-height: 1.3;\n  }\n  @media (max-width: 768px) {\n    .benefit-text {\n      font-size: 14px;\n    }\n    .benefit-icon {\n      width: 30px;\n      height: 30px;\n      min-width: 30px;\n    }\n    .benefit-icon svg {\n      width: 14px;\n      height: 14px;\n    }\n    .benefit-item {\n      margin-bottom: 10px;\n    }\n  }\n</style>\n\n<div class=\"benefits-section\">\n  <ul class=\"benefits-list\">\n\n    <li class=\"benefit-item\">\n      <div class=\"benefit-icon\">\n        <svg viewBox=\"0 0 24 24\"><polyline points=\"20 6 9 17 4 12\"></polyline></svg>\n      </div>\n      <span class=\"benefit-text\">Taille plus fine, jambes légères</span>\n    </li>\n\n    <li class=\"benefit-item\">\n      <div class=\"benefit-icon\">\n        <svg viewBox=\"0 0 24 24\"><polyline points=\"20 6 9 17 4 12\"></polyline></svg>\n      </div>\n      <span class=\"benefit-text\">Visage redéfini et dégonflé</span>\n    </li>\n\n    <li class=\"benefit-item\">\n      <div class=\"benefit-icon\">\n        <svg viewBox=\"0 0 24 24\"><polyline points=\"20 6 9 17 4 12\"></polyline></svg>\n      </div>\n      <span class=\"benefit-text\">Améliore la circulation de votre lymphe</span>\n    </li>\n\n    <li class=\"benefit-item\">\n      <div class=\"benefit-icon\">\n        <svg viewBox=\"0 0 24 24\"><polyline points=\"20 6 9 17 4 12\"></polyline></svg>\n      </div>\n      <span class=\"benefit-text\">Renforce votre confort digestif</span>\n    </li>\n\n  </ul>\n</div>"
           }
         },
         "liquid_HyAmY7": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"stock-alert\">\n  <span class=\"pulse-wrapper\">\n    <span class=\"pulse-dot\"></span>\n  </span>\n  <span class=\"stock-text\">\n    <strong>Pochi articoli rimasti in stock</strong> – Affrettatevi.\n  </span>\n</div>\n<style>\n.stock-alert {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  font-family: Arial, sans-serif;\n  font-size: 13px;\n  color: #dc3545;\n}\n.pulse-wrapper {\n  position: relative;\n  width: 14px;\n  height: 14px;\n  display: inline-block;\n}\n.pulse-dot {\n  width: 10px;\n  height: 10px;\n  background-color: #dc3545;\n  border-radius: 50%;\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  z-index: 2;\n  box-shadow: 0 0 0 4px rgba(220, 53, 69, 0.3);\n}\n.pulse-wrapper::before {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  width: 10px;\n  height: 10px;\n  background-color: #dc3545;\n  border-radius: 50%;\n  transform: translate(-50%, -50%) scale(1);\n  animation: pulse 1.5s infinite ease-out;\n  opacity: 0.5;\n  z-index: 1;\n}\n@keyframes pulse {\n  0% {\n    transform: translate(-50%, -50%) scale(1);\n    opacity: 0.5;\n  }\n  50% {\n    transform: translate(-50%, -50%) scale(2.2);\n    opacity: 0;\n  }\n  100% {\n    transform: translate(-50%, -50%) scale(1);\n    opacity: 0;\n  }\n}\n</style>"
-          }
-        },
-        "price_b6AGce": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
+            "liquid": "<div class=\"stock-alert\">\n  <span class=\"pulse-wrapper\">\n    <span class=\"pulse-dot\"></span>\n  </span>\n  <span class=\"stock-text\">\n    <strong>Peu d’articles restants en stock</strong> – Dépêchez‑vous.\n  </span>\n</div>\n\n<style>\n.stock-alert {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  font-family: Arial, sans-serif;\n  font-size: 13px;\n  color: #dc3545;\n}\n.pulse-wrapper {\n  position: relative;\n  width: 14px;\n  height: 14px;\n  display: inline-block;\n}\n.pulse-dot {\n  width: 10px;\n  height: 10px;\n  background-color: #dc3545;\n  border-radius: 50%;\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  z-index: 2;\n  box-shadow: 0 0 0 4px rgba(220, 53, 69, 0.3);\n}\n.pulse-wrapper::before {\n  content: \"\";\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  width: 10px;\n  height: 10px;\n  background-color: #dc3545;\n  border-radius: 50%;\n  transform: translate(-50%, -50%) scale(1);\n  animation: pulse 1.5s infinite ease-out;\n  opacity: 0.5;\n  z-index: 1;\n}\n@keyframes pulse {\n  0% {\n    transform: translate(-50%, -50%) scale(1);\n    opacity: 0.5;\n  }\n  50% {\n    transform: translate(-50%, -50%) scale(2.2);\n    opacity: 0;\n  }\n  100% {\n    transform: translate(-50%, -50%) scale(1);\n    opacity: 0;\n  }\n}\n</style>"
           }
         },
         "buy_buttons": {
@@ -47,7 +47,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#f0c417",
+            "atc_button_background": "#053a32",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
@@ -62,36 +62,44 @@
         "collapsible_text_RYiiE3": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Descrizione",
-            "content": "<p><strong>OrthoSleep è stato sviluppato da specialisti del sonno per migliorare postura, respirazione e qualità del riposo.</strong></p><p>Allineando correttamente la colonna cervicale, aiuta a ridurre dolori a collo, spalle e schiena, allevia la tensione muscolare e può contribuire a diminuire mal di testa e russamento.</p><p>La sua forma ergonomica a farfalla si adatta alla curva naturale del collo, offrendo supporto ottimale in ogni posizione — supina, laterale o a pancia in giù.</p><p>Realizzato in memory foam ad alta densità, garantisce comfort personalizzato e sostegno continuo per tutta la notte.</p><p>Ti svegli riposato, senza dolori… come rinato.</p>"
+            "title": "Description",
+            "content": "<p>Le Drainant Lymphatique Lynaye agit en douceur sur l’un des systèmes clés de votre équilibre : <strong>la lymphe.</strong></p><p>Sa formule végétale soutient le drainage naturel, aide à <strong>limiter la rétention d’eau, </strong>les <strong>gonflements</strong> et favorise une <strong>sensation de légèreté </strong>durable.</p><p>En accompagnant la circulation des fluides, Lynaye contribue aussi à plus <strong>d’énergie</strong> et à un <strong>confort</strong> quotidien retrouvé. </p><p>Un geste simple pour se réveiller plus légère, plus claire et plus alignée avec son corps.</p>"
           }
         },
         "collapsible_text_jehxpx": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Istruzioni per il lavaggio",
-            "content": "<p>Rimuovi la federa e lavala in lavatrice con un ciclo delicato a 30–40°C.<br/><br/>Lasciala asciugare all’aria completamente prima di rimetterla sul cuscino.<br/><br/>Il cuscino può essere pulito facilmente<strong> </strong>con un panno umido.</p>"
+            "title": "Utilisation",
+            "content": "<p><strong>2ml</strong> par jour (l'équivalent d'une pipette), au choix :</p><p>- En 2 prises : 1ml le matin + 1ml le soir <em>(recommandé)</em> </p><p>- En 1 prise : 2ml le matin ou le soir</p><p><br/>À diluer dans un verre d’eau, de thé ou de jus, ou à déposer directement sous la langue.</p><p>Pour des résultats optimaux, utiliser <strong>quotidiennement</strong> et veiller à rester <strong>bien hydratée</strong> tout au long de la journée.</p>"
           }
         },
         "collapsible_text_88fPUf": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Specifiche",
-            "content": "<ul><li><strong>Dimensioni</strong>: 63 cm (L) x 37 cm (P) x 13 cm (A).<br/></li><li><strong>Altezza del solco per il collo</strong>: 13 cm – la parte più profonda dove il collo si appoggia per un supporto ottimale.<br/></li><li><strong>Materiale della federa</strong>: Federa lussuosa, removibile e lavabile, in morbido tessuto setoso.<br/></li><li><strong>Materiale interno</strong>: Memory foam di alta qualità per un comfort e supporto superiori.</li></ul>"
+            "title": "Pourquoi utiliser Lynaye ?",
+            "content": "<p>Quand la lymphe ralentit, les liquides et les déchets s’accumulent.<br/>Résultat : gonflements, jambes lourdes, fatigue diffuse, traits du visage brouillés. </p><p>Lynaye aide à <strong>relancer une circulation lymphatique fluide</strong>, pour permettre au corps de :</p><p>Libérer l’excès d’eau, améliorer la circulation, retrouver une sensation de légèreté et un éclat plus naturel.</p><p>Le tout <strong>en douceur</strong>, sans brusquer l’organisme.<br/>Parce qu’un corps qui fonctionne bien, ça se voit… et ça se ressent.</p>"
+          }
+        },
+        "collapsible_text_KcfBaz": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Ingrédients & bienfaits",
+            "content": "<p>Chaque plante de Lynaye est sélectionnée avec précision pour <strong>relancer les mécanismes naturels de drainage et d’élimination</strong> du corps.</p><p><strong>- Gaillet gratteron (Galium aparine)</strong><br/>Soutient la circulation lymphatique et aide à remettre la lymphe en mouvement en douceur.</p><p><strong>- Trèfle rouge</strong><br/>Favorise une circulation fluide et contribue à une peau plus nette et lumineuse.</p><p><strong>- Frêne épineux (Prickly Ash)</strong><br/>Soutient la microcirculation et aide à réduire la sensation de lourdeur.</p><p><strong>- Stillingia (racine)</strong><br/>Traditionnellement utilisée pour accompagner le drainage naturel et l’élimination des déchets.</p><p>Une synergie de plantes, <strong>sans effet diurétique agressif</strong>, pensée pour un usage quotidien et durable.</p>"
           }
         }
       },
       "block_order": [
         "liquid_7BCNLq",
         "title",
+        "price_Lkyt4c",
         "liquid_HEjCM4",
         "liquid_HyAmY7",
-        "price_b6AGce",
         "buy_buttons",
         "liquid_ABpH3z",
         "collapsible_text_RYiiE3",
         "collapsible_text_jehxpx",
-        "collapsible_text_88fPUf"
+        "collapsible_text_88fPUf",
+        "collapsible_text_KcfBaz"
       ],
       "settings": {
         "full_width": true,
@@ -145,8 +153,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Pc.png",
-        "mobile_image": "shopify://shop_images/Tel.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",

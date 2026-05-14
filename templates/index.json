@@ -375,6 +375,13 @@
             "title": "Est-ce que ça marche vraiment ?",
             "content": "<p>Avec l'élixir Lynaye, <strong>vous ciblez la cause profonde de vos gonflements</strong> et de votre sensation de lourdeur : <strong>votre lymphe ralentie par le stress oxydatif</strong>. </p><p>Grâce aux 4 plantes que nous utilisons et qui sont cliniquement reconnues pour être anti-inflammatoire et relancer la circulation de la lymphe… <strong>Vous donnez enfin à votre corps le moyen d'éliminer l'eau et et les déchets</strong> qui se sont accumulés dans votre visage, votre ventre et vos jambes.</p><p><strong>Des milliers de clientes rapportent les mêmes signaux de soulagement et de légèreté</strong> depuis qu'elles ont relancé leur lymphe. </p><p>On vous rappelle aussi que <strong>vous pouvez faire valoir votre garantie de résultats si vous ne constatez aucun résultats visibles</strong>.</p>"
           }
+        },
+        "item_jeRLdc": {
+          "type": "item",
+          "settings": {
+            "title": "Comment ça se compare aux massages lymphatiques ?",
+            "content": "<p>Les massages peuvent vous offrir un soulagement \"en surface\" rapide, <strong>mais de quelques jours seulement</strong>.... </p><p>Sans compter qu'<strong>une séance coûte environ 100€ à renouveler 3 voire 4 fois par mois</strong>.</p><p><strong>Les massages ne ciblent en aucun cas la cause profonde de votre rétention d'eau </strong>: le stress oxydatif qui ralentie votre lymphe et fait fuir les toxines dans vos tissus.</p>"
+          }
         }
       },
       "block_order": [
@@ -382,7 +389,8 @@
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
-        "item_ByVdwX"
+        "item_ByVdwX",
+        "item_jeRLdc"
       ],
       "settings": {
         "full_width": false,

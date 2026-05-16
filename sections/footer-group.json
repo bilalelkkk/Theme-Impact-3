@@ -30,13 +30,13 @@
         "payment": {
           "type": "item",
           "settings": {
-            "icon": "picto-return",
+            "icon": "picto-customer-support",
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Satisfait ou remboursé",
+            "title": "Service client 7J/7",
             "content": ""
           }
         },
